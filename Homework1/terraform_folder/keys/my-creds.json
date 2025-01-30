@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "de-zoomcamp-448800",
+    "private_key_id": "30a0bd5f46fd71bda7c7d75b8a0ab47135a448b7",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCjWJshTzKi0vNB\n+LG6TYmfOP/qGv/zsvu+zPtM53mKyTpzZDoIIqGDhgIcbPHJ2YqPkQus9j8DBKIv\ngYs2Ya8O7ZbGJCUoj3GdtCjWZtB16UiqGog8+e4NhP1C3M8uR79EGKsJuCMI3YVu\nSdxupKdgR6QxH8NgE4pL34ummrriGyY1JideYfWO3gwyB4jNPm6RKa8ic78fJ/b/\nSulUhv0FHxauH40tXRCgrDujO9IMyj0L7v62CTnR7mOM5ldykq+I97805r0r11YY\nAuPDloVXXEp/8Mqu+sfsYjgifT5Dtd18e2O5efyv4+tMljdRo3h8x8guO6Cmq9NM\nj5kepD9pAgMBAAECggEAAbuIPLKVecjlQ+E+iFh3cdkFzN6/sX7n4OqVbUfEwCI5\nhJ0O6QRuBGI83j6RE3gjWjm6fxmHClIHotubxYZEeDLwrxYVz0/zL24oYzrIsgF5\nD/XTVVs8yUesdIO5Tlc8Of2Nfd9GPtszpbtykzlbnZ+w6AT7Wmbmp/6dYXVhb1HA\nT9Rax5W92bqDO8mfmXj1bk8PckOhCDCvc7oHiMovxOxNH/6vXCW+xz0f66gvM23l\nRsaATb5bEbY9qvLR99MMjZTJm9mTVvCyxPFyfrsIA12jJSX7Se8pbOucWElZI5pJ\ngc+vKSdqo7H1wJzGZvEbSqbWWiyWhKByDBGKQFfJIQKBgQDNqmaVBbACRx+TK5dF\nCf/lG9oiONpgqLK5Ia3DCAlCfmFOTRDNCQknE2WhA28mOvaUdFMrTT1TKbm+3zQU\nmmw2QOXLOtjJr/Ax38AWF5pBBPBP3HLXRX2cH+NM7K060CNIqDYZ8fsnLCCTfwIE\n7zuC5G47W5y5rlF8eKjbzXO5SQKBgQDLUsEwUH47GwxsfDPRAicMd5HWuZpdYOEv\n50m690qP51e0qMIEkL9LA3uralB5sRtCVPCjlL9Dqyz/8SRR+4t5MAGtxNzDGHQd\nfhuyTsFMan0Zm2OkWuoA0Wh+g36PI67l/5xxSm+sLiXI7h2PP70VfoXVjbp/lrnv\nhTISqbN1IQKBgQC9dP/Sv86ICqTXmgxbmP6WO7YSWHUzHbSmPpQnWbvN+UYCL5QO\njQhVatTwIo29lguYbiA/f4PCnGlzn4IGiMqun9IQCUGzadPG3evBbjS3OKl3qAhS\nrr0rmWR2dICP8TTPtcVA2V0XlNrdhN6DVS5pQa0aGSajFiYSl8RV10mHoQKBgQCR\nGNh3EypSIcZm8OfFg0S8l+PCmad4dfedyO+L9ogGU/D6Iuh6e5WYAb9Sn8cYYPR0\nDMvB4RfxQYoWiE8EFn/9Fu5LxM5Kh/vtRB6dy6gUUXY/PO4JzztpJAfvKQW7PprE\n1foduyIgfLpIPu1nWfQlD6qQsNjjznuYW7RVLze7IQKBgQCrQjnP9akkDm2l0CDe\n7Fi4j/fO527d2CSpe2rjkNDf+5mvPzwOrFncDONO01F9yVXoN1ypM2968aZ1hth/\n0KF5Fm3j675FBv9xhHd0j7JEdL7hgu9UxqtccwZUcCNtnlB7vYWQcpDuwiT9BZd9\nC5SXoyM+mY/nLcTSBWvCEwAksg==\n-----END PRIVATE KEY-----\n",
+    "client_email": "de-zoomcamp-salma@de-zoomcamp-448800.iam.gserviceaccount.com",
+    "client_id": "113361867332062037005",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/de-zoomcamp-salma%40de-zoomcamp-448800.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
