@@ -171,3 +171,5 @@ cython_debug/
 .pypirc
 
 .*json
+
+/Homework1/terraform_folder/keys/
