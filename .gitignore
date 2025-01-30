@@ -172,4 +172,4 @@ cython_debug/
 
 .*json
 
-/Homework1/terraform_folder/keys/
+Homework1/terraform_folder/keys/
